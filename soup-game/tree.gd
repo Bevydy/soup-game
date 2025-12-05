@@ -6,3 +6,5 @@ func _ready():
 	var list_tree = $Tree
 	var root = list_tree.create_item()
 	root.set_text(0, "test")
+	
+	#this is a test message
